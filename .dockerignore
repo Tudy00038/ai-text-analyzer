@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env/
+.ai-text-env/
+.venv/
+.git
+.gitignore
+data/
+models/
+
